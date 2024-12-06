@@ -34,7 +34,7 @@ o Key customers
 
 o Shipping Cost
 
-## SKILLS DESMONSTRATE
+## SKILLS DESMONSTRATED
 Excel functions such as pivot tables,creating tables, data modelling, creating of dashboard, creating graphs, PowerBi, creating dashboard,daxs , creating new colunms
 
 ## DATA ANALYSIS
