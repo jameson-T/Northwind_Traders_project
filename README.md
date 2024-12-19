@@ -58,6 +58,9 @@ DASHBOARD
 https://github.com/jameson-T/Northwind_Traders_project/blob/main/Power%20bi%20project.pbix
 
 ## RECOMMENDATIONS
+Product such as produce, greals and cereals, condiments and confection has low reveune so the should get more adverstiment to get more reveune and consumer.
+The employee with highest number of sale should be compensated or rewarded to encourage them and also motivate others employee to put more effort.
+The month Apirl,jan,march,feb, leads the trend of sales over time,production in this month should be maximize.
 
 
 
