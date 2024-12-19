@@ -43,6 +43,8 @@ Power Bi : For visualization
 
 ## KEY INSIGHT
 The reveune for each category of products here
+https://github.com/jameson-T/Northwind_Traders_project/edit/main/revenue_by_product.png
+Customer with the highest number of orders here
 
 
 
