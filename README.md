@@ -1,5 +1,5 @@
 # Northwind_Traders_project
-Analysing Northwind_traders _data_set to answers using Excel and PowerBi
+Analysing Northwind_traders data_set to answers using Excel and PowerBi
 
 Author:Jameson 
 
@@ -37,5 +37,12 @@ o Shipping Cost
 ## SKILLS DESMONSTRATED
 Excel functions such as pivot tables,creating tables, data modelling, creating of dashboard, creating graphs, PowerBi, creating dashboard,daxs , creating new colunms
 
-## DATA ANALYSIS
+## TOOLS USED
+Excel: For Data preparation 
+Power Bi : For visualization 
+
+## KEY INSIGHT
+The reveune for each category of products here
+
+
 
