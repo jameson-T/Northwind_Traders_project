@@ -39,6 +39,8 @@ Excel functions such as pivot tables,creating tables, data modelling, creating o
 
 ## TOOLS USED
 Excel: For Data preparation 
+
+
 Power Bi : For visualization 
 
 ## KEY INSIGHT
